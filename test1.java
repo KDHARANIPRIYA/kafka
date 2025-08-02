@@ -6,7 +6,7 @@ public class test1 {
 
         // Take array size input
         System.out.print("Enter the number of elements: ");
-        int n = scanner.nextInt();
+        int n = scanner.nextChar();
 
         // Create array and take input
         int[] arr = new int[n];
